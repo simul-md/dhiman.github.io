@@ -23,7 +23,7 @@ repository               : "simul-md/dhiman.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "bio1-photo.JPEG"
   name             : "Mukul Dhiman"
   pronouns         : # example: "she/her"  
   bio              : "Theoretical & computational physicist — quantum dynamics, nuclear quantum effects, excited states"
