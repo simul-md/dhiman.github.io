@@ -11,54 +11,56 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **PhD in Physics**, Normandie Université (Université de Caen), France, 2022
+  * CIMAP (GANIL–CEA–CNRS); supervisor: Benoît Gervais
+  * Thesis: *Modelling excited argon clusters: geometries, spectroscopic properties, and non-adiabatic relaxation dynamics* ([HAL](https://theses.hal.science/tel-03775595))
+* **MS in Physics**, Mesoscopic and Advanced Material Science, Peter the Great St. Petersburg Polytechnic University, Russia, 2018
+  * Erasmus+ exchange semester at the Technical University of Munich, Germany, 2017–2018
+* **BS in Electrical and Electronics Engineering**, Shivalik College of Engineering (UTU), India, 2013
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **2024 – 2026: Postdoctoral researcher**, MSME, Université Gustave Eiffel, France
+  * Nuclear quantum effects in electronic spectra: adaptive quantum thermal bath and path-integral MD for acrolein in the gas phase and in water; *ab initio* excited states; force-field parameterisation
+* **2023 – 2024: Postdoctoral researcher**, ISMO, CNRS / Université Paris-Saclay, France
+  * Mixed quantum–classical dynamics of hydrogen sticking on graphene; wavepacket and hybrid-trajectory methods; potentials and phonons from Quantum ESPRESSO
+* **2022 – 2023: Postdoctoral researcher**, Goethe University Frankfurt am Main, Germany
+  * Singlet-fission modelling with MCTDH
+* **2018 – 2022: Doctoral researcher**, CIMAP, Université de Caen, France
+  * Model Hamiltonians and non-adiabatic dynamics of excited rare-gas clusters
+* **2017 – 2018: Graduate researcher**, Peter the Great St. Petersburg Polytechnic University, Russia
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Awards
+======
+* Best Poster Prize, Université Gustave Eiffel research day, 2025
+* Hot Topic presentation, SASP 2024
+* Doctoral research grant, Normandie Université, 2018
+* Erasmus+ mobility grant, 2017
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+Teaching and supervision
+======
+* Undergraduate (L1) physics, Université Gustave Eiffel
+* Supervision of M1 research students, Université Gustave Eiffel
+* Theoretical chemistry practicals, Goethe University Frankfurt
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Dynamics:** non-adiabatic and mixed quantum–classical dynamics, wavepacket propagation, MCTDH, quantum thermal baths, path-integral MD
+* **Electronic structure:** MOLCAS, Gaussian, Quantum ESPRESSO, model (pseudopotential) Hamiltonians
+* **Programming:** C, Python
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+In preparation
+------
+* Dhiman, M.; Giglio, E.; Gervais, B. *Excited-state dynamics of neutral argon clusters: exploration of dissociation channels.*
+
+Talks and posters
 ======
   <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
+    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
