@@ -8,6 +8,4 @@ date: 2019-08-01
 location: "Les Houches, France"
 ---
 
-With J. Douady and B. Gervais.
-
 [View Poster (PDF)]({{ site.baseurl }}/files/poster_mukuldhiman.pdf)
