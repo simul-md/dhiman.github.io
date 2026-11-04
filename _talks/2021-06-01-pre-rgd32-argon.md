@@ -11,4 +11,4 @@ In the following work I presented my initial results of HPP dynamics.
 
 With J. Douady and B. Gervais.
 
-[Download slides (PDF)]({{ site.baseurl }}/files/2021-pre-rgd32-slides.pdf)
+[Download slides (PDF)]({{ site.baseurl }}/files/Pre-RGD32_Presentation_MDHIMAN_e1.pdf)
