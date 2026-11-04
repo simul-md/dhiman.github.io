@@ -6,6 +6,7 @@ permalink: /publication/2026-acrolein-nuclear-quantum-effects
 excerpt: 'Absorption spectra of acrolein in the gas phase and in water computed with the adaptive quantum thermal bath (adQTB) and path-integral molecular dynamics, to quantify how nuclear quantum effects shape electronic spectra.'
 date: 2026-06-01
 venue: 'The Journal of Physical Chemistry A'
+paperurl: 'https://doi.org/10.1021/acs.jpca.6c01102'
 citation: 'Dhiman, M.; Mangaud, E.; Huppert, S.; Navizet, I. (2026). &quot;Simulating steady-state spectra of acrolein while accounting for nuclear quantum effects.&quot; <i>J. Phys. Chem. A</i> 130 (26), 4900–4912.'
 ---
 
