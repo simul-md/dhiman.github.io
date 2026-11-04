@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a theoretical and computational physicist working on the quantum dynamics of light nuclei and excited electrons in molecules, clusters and at surfaces. My work sits where quantum mechanics has to be kept for some degrees of freedom but cannot be afforded for all of them, and I build and test hybrid methods that make that compromise controlled rather than ad hoc.
+I am a theoretical and computational physicist working on the quantum dynamics of light nuclei and excited electrons in molecules, clusters and at surfaces. I work on light-matter interations and develop models for the same. My work sits where quantum mechanics has to be kept for some degrees of freedom but cannot be afforded for all of them, and I build and test hybrid methods/models that make that compromise controlled rather than ad hoc. 
 
 Research
 ======
