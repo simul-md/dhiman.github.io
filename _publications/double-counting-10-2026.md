@@ -1,7 +1,7 @@
 ---
 title: "Solution to Double Counting of Zero-Point Energy: Partitioned Quantum Thermal Baths for Mixed Quantum–Classical Dynamics"
 collection: publications
-category: preprint
+category: preprints
 permalink: /publication/double-counting-10-2026
 excerpt: 'Preprint Current Work'
 date: 09-10-2026
