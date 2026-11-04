@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+A pdf version of CV [View CV (PDF)]({{ site.baseurl }}/files/CV_MDHIMAN09-26.pdf)
 
 Research experience
 ======
