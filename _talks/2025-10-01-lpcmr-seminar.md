@@ -4,5 +4,6 @@ collection: talks
 type: "Seminar"
 permalink: /talks/2025-lpcmr-seminar
 venue: "LPCMR"
-date: 2025-10-01
+date: 2025-11-04
+location: "Paris, France"
 ---

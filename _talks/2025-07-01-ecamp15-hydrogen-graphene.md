@@ -8,6 +8,4 @@ date: 2025-07-01
 location: "Innsbruck, Austria"
 ---
 
-With S. Morisset, N. Rougeau and D. Lauvergnat.
-
 [View Poster (PDF)]({{ site.baseurl }}/files/pavia-POSTER_mdhiman_v2.2.pdf)

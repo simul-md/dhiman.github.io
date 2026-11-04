@@ -7,8 +7,5 @@ venue: "Pre-RGD32 online workshop"
 date: 2021-06-01
 location: "Online (Korea)"
 ---
-In the following work I presented my initial results of HPP dynamics. 
-
-With J. Douady and B. Gervais.
 
 [Download slides (PDF)]({{ site.baseurl }}/files/Pre-RGD32_Presentation_MDHIMAN_e1.pdf)
