@@ -9,15 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* **PhD in Physics**, Normandie Université (Université de Caen), France, 2022
-  * CIMAP (GANIL–CEA–CNRS); supervisor: Benoît Gervais
-  * Thesis: *Modelling excited argon clusters: geometries, spectroscopic properties, and non-adiabatic relaxation dynamics* ([HAL](https://theses.hal.science/tel-03775595))
-* **MS in Physics**, Mesoscopic and Advanced Material Science, Peter the Great St. Petersburg Polytechnic University, Russia, 2018
-  * Erasmus+ exchange semester at the Technical University of Munich, Germany, 2017–2018
-* **BS in Electrical and Electronics Engineering**, Shivalik College of Engineering (UTU), India, 2013
-
 Research experience
 ======
 * **2024 – 2026: Postdoctoral researcher**, MSME, Université Gustave Eiffel, France
@@ -30,9 +21,18 @@ Research experience
   * Model Hamiltonians and non-adiabatic dynamics of excited rare-gas clusters
 * **2017 – 2018: Graduate researcher**, Peter the Great St. Petersburg Polytechnic University, Russia
 
+Education
+======
+* **PhD in Physics**, Normandie Université (Université de Caen), France, 2022
+  * CIMAP (GANIL–CEA–CNRS); supervisor: Benoît Gervais
+  * Thesis: *Modelling excited argon clusters: geometries, spectroscopic properties, and non-adiabatic relaxation dynamics* ([HAL](https://theses.hal.science/tel-03775595))
+* **MS in Physics**, Mesoscopic and Advanced Material Science, Peter the Great St. Petersburg Polytechnic University, Russia, 2018
+  * Erasmus+ Exchange at the Technical University of Munich, Germany, 2017–2018
+* **BS in Electrical and Electronics Engineering**, Shivalik College of Engineering (UTU), India, 2013
+
 Awards
 ======
-* Best Poster Prize, Université Gustave Eiffel research day, 2025
+* Best Poster Prize, Université Gustave Eiffel, MSME Lab Day, 2025
 * Hot Topic presentation, SASP 2024
 * Doctoral research grant, Normandie Université, 2018
 * Erasmus+ mobility grant, 2017
@@ -48,6 +48,14 @@ Skills
 * **Dynamics:** non-adiabatic and mixed quantum–classical dynamics, wavepacket propagation, MCTDH, quantum thermal baths, path-integral MD
 * **Electronic structure:** MOLCAS, Gaussian, Quantum ESPRESSO, model (pseudopotential) Hamiltonians
 * **Programming:** C, Python
+
+Language
+======
+* English (Fluent)
+* French (Intermediate)
+* German (Beginner)
+* Russian (Beginner)
+* Hindi (Native)
 
 Publications
 ======
