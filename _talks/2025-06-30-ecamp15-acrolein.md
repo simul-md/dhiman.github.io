@@ -9,3 +9,5 @@ location: "Innsbruck, Austria"
 ---
 
 With E. Mangaud, S. Huppert and I. Navizet.
+
+[View Poster (PDF)]({{ site.baseurl }}/files/INSburk-POSTER_mdhiman-final-msme.pdf)
