@@ -8,3 +8,5 @@ date: 2025-05-01
 ---
 
 With E. Mangaud, S. Huppert and I. Navizet. **Best Poster Prize.**
+
+[View Poster (PDF)]({{ site.baseurl }}/files/INSburk-POSTER_mdhiman-final-msme.pdf)
