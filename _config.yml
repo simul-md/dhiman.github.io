@@ -35,15 +35,15 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=nisoQ4UAAAAJ&hl=fr"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-7319-1384"
-  semantic         : # URL
+  HAL              : "https://hal.science/search/index/q/*/authIdHal_s/mukul-dhiman"
   ssrn             : # URL
   pubmed           : 
-  researchgate     : # URL
-  scopus           : # URL
+  researchgate     : "https://www.researchgate.net/profile/Mukul-Dhiman"
+  scopus           : #
   zotero           : # URL
 
 
