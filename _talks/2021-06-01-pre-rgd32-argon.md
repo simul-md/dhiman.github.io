@@ -6,7 +6,7 @@ permalink: /talks/2021-pre-rgd32-argon
 venue: "Pre-RGD32 online workshop"
 date: 2021-06-01
 location: "Online (Korea)"
-abstract: Does this show correctly ?
+abstract: "Does this show correctly ?"
 ---
 
 With J. Douady and B. Gervais.
