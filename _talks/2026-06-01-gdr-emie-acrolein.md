@@ -7,3 +7,5 @@ venue: "GDR EMIE meeting"
 date: 2026-06-01
 location: "Toulouse, France"
 ---
+
+[View Presentation (PDF)]({{ site.baseurl }}/files/presentation-emie2026-Mdhiman.pdf)
