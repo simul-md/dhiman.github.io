@@ -6,7 +6,7 @@ permalink: /publication/2024-argon-excited-state-dynamics
 excerpt: 'Non-adiabatic surface-hopping dynamics of excited neutral argon clusters (N = 3, 7, 13) on on-the-fly Di-DIM potential energy curves with spin–orbit coupling, and the fragmentation channels that follow excitation.'
 date: 2024-08-30
 venue: 'Preprint'
-paperurl: 'https://simul-md.github.io/dhiman.github.io/files/2024-argon-excited-state-dynamics.pdf'
+paperurl: 'https://simul-md.github.io/dhiman.github.io/files/Article_Excitation_Dynamics_in_Neutral_Argon_trimers_nodiab.pdf'
 citation: 'Dhiman, M.; Gervais, B. (2024). &quot;Excited state dynamics on neutral argon clusters.&quot; Preprint.'
 ---
 
