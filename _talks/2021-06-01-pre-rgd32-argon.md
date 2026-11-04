@@ -4,6 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2021-pre-rgd32-argon
 venue: "Pre-RGD32 online workshop"
+paperurl: 'files/Pre-RGD32_Presentation_MDHIMAN_e1.pdf'
 date: 2021-06-01
 location: "Online (Korea)"
 ---
