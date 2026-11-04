@@ -6,6 +6,7 @@ permalink: /publication/2026-rydberg-argon-clusters
 excerpt: 'A corrected hole–particle pseudopotential description of Rydberg excitations in neutral argon clusters, validated against high-level ab initio data, and its consequences for where the excitation localises.'
 date: 2026-03-01
 venue: 'Chemical Physics Letters'
+paperurl: 'https://doi.org/10.1016/j.cplett.2026.142825'
 citation: 'Dhiman, M.; Gervais, B. (2026). &quot;Correcting Rydberg excitations in argon clusters: from trimer to excimer localization.&quot; <i>Chem. Phys. Lett.</i> 142825.'
 ---
 
