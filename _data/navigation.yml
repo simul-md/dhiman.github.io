@@ -6,5 +6,8 @@ main:
   - title: "Talks & Posters"
     url: /talks/
 
+  - title: "Seminars"
+    url: /seminars/
+
   - title: "CV"
     url: /cv/
