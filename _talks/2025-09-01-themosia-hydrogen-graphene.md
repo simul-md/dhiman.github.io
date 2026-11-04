@@ -6,3 +6,5 @@ permalink: /talks/2025-themosia-hydrogen-graphene
 venue: "Journées de chimie théorique du pôle IdF/Nord de ThéMoSiA"
 date: 2025-09-01
 ---
+
+[View Presentation (PDF)]({{ site.baseurl }}/files/presentqtion-JCC2025.pdf)
