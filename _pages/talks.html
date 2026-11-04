@@ -12,5 +12,7 @@ author_profile: true
 {% endif %}
 
 {% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
+  {% if post.type != "Seminar" %}
+    {% include archive-single-talk.html %}
+  {% endif %}
 {% endfor %}
