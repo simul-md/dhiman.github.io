@@ -8,3 +8,5 @@ date: 2024-03-01
 ---
 
 With S. Morisset, N. Rougeau and D. Lauvergnat.
+
+[View Poster (PDF)]({{ site.baseurl }}/files/SASP-ISMO-POSTER_mdhiman_f.pdf)
