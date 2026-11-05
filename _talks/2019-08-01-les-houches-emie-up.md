@@ -4,7 +4,7 @@ collection: talks
 type: "Poster"
 permalink: /talks/2019-les-houches-emie-up
 venue: "EMIE-UP school on Multiscale Dynamics of Molecular Systems, École de Physique des Houches"
-date: 2019-08
+date: 2019-08-05
 location: "Les Houches, France"
 ---
 
